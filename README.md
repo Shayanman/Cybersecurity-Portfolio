@@ -1,5 +1,5 @@
 # Cybersecurity-Portfolio
-I am a highly motivated and adaptable aspiring cybersecurity analyst committed to protecting people and organisations from evolving digital threats. My healthcare background, combined with extensive customer service and sales experience, has strengthened my ability to communicate complex information clearly, build strong relationships, and apply analytical thinking to solve problems effectively.
+I am a highly motivated and adaptable cybersecurity analyst committed to protecting people and organisations from evolving digital threats. My healthcare background, combined with extensive customer service and sales experience, has strengthened my ability to communicate complex information clearly, build strong relationships, and apply analytical thinking to solve problems effectively.
 
 My core strengths include adaptability, teamwork, analytical problem solving, and attention to detail, which I continue to develop through technical training in cybersecurity, SQL/BigQuery, Python, and data analytics. I value integrity, collaboration, and continuous learning—principles that guide my approach to both professional growth and the protection of digital assets.
 
